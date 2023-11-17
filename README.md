@@ -1,2 +1,3 @@
 # casanovahub.github.io
-hola mundo publicando paginas web.
+
+Repositorio general para administrar pagina web portafolio, proyectos personales por el momento.
